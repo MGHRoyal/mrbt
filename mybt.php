@@ -3,5 +3,5 @@
 //$result = file_get_contents($url);
 //var_dump($result);
 $sm = "salam";
-echo "salam";
+echo $sm;
 ?>
